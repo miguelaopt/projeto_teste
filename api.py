@@ -34,3 +34,5 @@ def register_user(user: User):
 @app.get("/tasks")
 def get_tasks():
     return {"data": [{"id": 1, "title": "Buy milk"}]}
+
+    #teste de sync.
