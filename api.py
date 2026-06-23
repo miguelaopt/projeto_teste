@@ -35,4 +35,4 @@ def register_user(user: User):
 def get_tasks():
     return {"data": [{"id": 1, "title": "Buy milk"}]}
 
-    #teste de sync.
+    #teste de sync sincado
