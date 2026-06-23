@@ -23,3 +23,4 @@ def process_checkout(cart_items: List[Dict]):
     
     return {"status": "success", "amount_charged": total}
     #cart system? 
+    #mudanca denovo
